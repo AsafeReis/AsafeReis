@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi there, I'm Asafe!
 
-<!--
-**AsafeReis/AsafeReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science & Machine Learning Enthusiast | 💡 Automation & Electronics Professional
 
-Here are some ideas to get you started:
+🧠 I'm passionate about transforming data into insights and using intelligent automation to improve industrial and business processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 WHAT I STUDY :
+
+-Python for Data Science, Machine Learning, and Automation
+
+-SQL for data analysis and database optimization
+
+-Django, JavaScript, React, Node.js
+
+-API integration
+
+-Electronics and SMD Maintenance, with experience in process optimization and data-driven analysis with PLC
+
+🚀 GOALS:
+
+-To combine AI, data analysis, and automation to create intelligent systems that optimize performance and decision-making in industrial environments.
+
+GET IN TOUCH:
+
+-E-mail: asafedosreis@gmail.com
+
+-Linkedin: AsafeDosReis
+
+
+
+
